@@ -20,7 +20,7 @@ public class Ball : MonoBehaviour
 
         launchTimer = 2.0f;
         xSpeed = 8.0f;
-        ySpeed = 8.0f;
+        ySpeed = -8.0f;
         collisionFlag = true;
     }
 
